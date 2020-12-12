@@ -1,7 +1,12 @@
 body {
   Background-color: #EAF6F6;
   font-family: 'Oxygen', sans-serif;
-  
+  margin: 0;
+
+}
+
+section {
+  padding: 20px 100px;
 }
 
 hr {
@@ -10,17 +15,43 @@ hr {
   width: 10%;
 }
 
-h1
-{
+h1 {
   color: #66bfbf
 }
 
-h2
-{
+h2 {
   color: #66bfbf
 }
 
-h3
-{
+h3 {
   color: #66bfbf
+}
+
+.color1{
+  background-color: #EAF6F6;
+}
+
+.color2{
+  background-color: #fff;
+}
+
+.color3{
+  background-color: #4e8d7c;
+}
+
+.facebook{
+  color: blue;
+  font-size: 2em;
+}
+
+.linkedin{
+  color: lightblue;
+  font-size: 2em;
+}
+
+.ownership {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    text-align: center;
+
 }
